@@ -9,8 +9,6 @@ The dashboard provides insights into:
 - Monthly Profit Trends
 - Top & Low Performing Sub-Categories
 
----
-
 ## 🚀 **Features**
 - Interactive slicers (Quarter, State)
 - Dynamic KPIs for Sales, Quantity, Profit & AOV
@@ -18,18 +16,15 @@ The dashboard provides insights into:
 - User-driven parameters & drill-down functionality
 - Clean and modern UI design with rich color theme
 
----
-
 ## 🛠 **Tools Used**
 - **Power BI Desktop**  
 - **Power Query**  
 - **DAX (Data Analysis Expressions)**  
 - **Excel/CSV Dataset**  
 
----
+## 📸 Dashboard Preview
 
-## 📸 **Dashboard Preview**
-*(Add screenshot here)*
+![Dashboard Screenshot](https://github.com/ShreyaMahadev/PowerBI-Sales-Dashboard/blob/main/Screenshot%202025-11-23%20141606.png)
 
-```md
-![Dashboard](YOUR_IMAGE_PATH)
+
+
